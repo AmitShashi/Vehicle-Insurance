@@ -1,6 +1,6 @@
 # Vehicle-Insurance
 -----------------------------------
-Story: This project is on vehicle insurance using HTML/CSS/JA, JAVA, JAVA WEb and SQL.
+Story: This project is about vehicle insurance using HTML/CSS/JA, JAVA, JAVA WEb and SQL.
 -----------------------------------
 Contributers Names:
 - Sameer
